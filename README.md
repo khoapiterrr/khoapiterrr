@@ -8,6 +8,7 @@ I'm Khoapiterr from Vietnam, a developer with 1 year of experience in Asp net co
 * 👨‍💻 asp net core mvc
 * 💻 HTML, CSS, JS
 
+## About me
 - 🔭 I’m currently working on SETA International Vietnam 
 - 📫 How to reach me: khoapiterrr99@gmail.com 
 - ⚡ Fun fact: whatt....? 
